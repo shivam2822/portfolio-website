@@ -7,16 +7,16 @@ const ReactPageAbout = () => {
       title: "Experience",
       items: [
         {
-          duration: "2022 - Present",
+          duration: "2021 - Present",
           role: "Frontend Developer",
-          company: "Your Current Company",
+          company: "Freelancer",
           description:
             "Building modern web applications with React and TypeScript.",
         },
         {
-          duration: "2020 - 2022",
+          duration: "2020 - 2021",
           role: "Web Developer",
-          company: "Previous Company",
+          company: "Freelancer",
           description:
             "Developed and maintained WordPress websites for clients.",
         },
@@ -28,7 +28,7 @@ const ReactPageAbout = () => {
         {
           duration: "2016 - 2020",
           role: "B.Tech in Computer Science",
-          company: "Your University",
+          company: "JIIT, Noida, UP, 201301",
           description: "Focused on web technologies and software development.",
         },
       ],
